@@ -9,7 +9,7 @@ Memu is a pseudo computer emulator. MuskatOS uses it to start up. Also in future
 # Installation guide
 To install MuskatOS you must follow these steps:
 - Clone repository using ```git clone```
-- Start live system via Memu using ```python main.py```
+- Start live system via Memu using ```python memu.py```
 - From the live system install the main system onto the first disk using ```tetstrap disk0 base``` or install specific packages. If you are installing not every package, you must to install memuboot and base system using ```tetstrap disk0 base/memuboot base/muskatos```
 - Edit Memu config and change boot device from live system to the first disk
 - Reboot Memu
