@@ -24,4 +24,4 @@ MuskatOS 26.0 - a completely rewritten, fresh new version of MuskatOS. Here is t
 - The echo command can now write text to files
 - Many other changes
 # MuskatOS Rust Edition
-<html><a href="https://github.com/muskatya/muskatos-rust">MuskatOS Rust Edition</a></html> is a MuskatOS port to the rust. At the moment, MOSRE doesn't support Memu, it has not file system at all. In the future it will be a full port of MOS to the rust, but now it is a very stripped-down version of MuskatOS.
+<html><a href="https://github.com/muskatya/muskatos-rust">MuskatOS Rust Edition</a></html> is a port of MuskatOS to Rust. At the moment, MOSRE doesn't support Memu, and it has no file system at all. In the future, it will be a full port of MOS to Rust, but for now, it is a very stripped-down version of MuskatOS.
